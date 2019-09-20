@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kiengohpaw.patrickolson.design/sitemap.xml
